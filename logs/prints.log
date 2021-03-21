@@ -1,0 +1,43 @@
+18:25:57.864 [main] INFO  resources.base - Testcase pass - Validating Student registration.
+18:26:06.809 [main] INFO  resources.base - Testcase pass -Verify validation message for incomplete Student registration.
+18:26:19.457 [main] INFO  resources.base - Testcase passed -Validating functionality of Alert popup.
+18:26:30.523 [main] INFO  resources.base - Test passed -Validating functionality of hover over on button and input field.
+18:26:36.860 [main] INFO  resources.base - Test passed -Validating functionality of Drag and drop element.
+18:26:43.730 [main] INFO  resources.base - Test passed -Validate user can selct and close small modal.
+18:26:52.046 [main] INFO  resources.base - Test passed -Validate user can select future date.
+18:33:54.374 [main] INFO  resources.base - Testcase pass - Validating Student registration.
+18:34:03.367 [main] INFO  resources.base - Testcase pass -Verify validation message for incomplete Student registration.
+18:34:18.176 [main] INFO  resources.base - Testcase passed -Validating functionality of Alert popup.
+18:34:26.833 [main] INFO  resources.base - Test passed -Validating functionality of hover over on button and input field.
+18:34:33.504 [main] INFO  resources.base - Test passed -Validating functionality of Drag and drop element.
+18:34:44.838 [main] INFO  resources.base - Test passed -Validate user can selct and close small modal.
+18:34:54.892 [main] INFO  resources.base - Test passed -Validate user can select future date.
+18:35:38.415 [main] INFO  resources.base - Testcase pass - Validating Student registration.
+18:35:49.750 [main] INFO  resources.base - Testcase pass -Verify validation message for incomplete Student registration.
+18:36:07.578 [main] INFO  resources.base - Testcase passed -Validating functionality of Alert popup.
+18:36:18.574 [main] INFO  resources.base - Test passed -Validating functionality of hover over on button and input field.
+18:36:29.253 [main] INFO  resources.base - Test passed -Validating functionality of Drag and drop element.
+18:36:37.453 [main] INFO  resources.base - Test passed -Validate user can selct and close small modal.
+18:36:46.001 [main] INFO  resources.base - Test passed -Validate user can select future date.
+18:39:24.333 [main] INFO  resources.base - Testcase pass - Validating Student registration.
+18:39:34.349 [main] INFO  resources.base - Testcase pass -Verify validation message for incomplete Student registration.
+18:39:47.271 [main] INFO  resources.base - Testcase passed -Validating functionality of Alert popup.
+18:39:52.810 [main] INFO  resources.base - Test passed -Validating functionality of hover over on button and input field.
+18:39:58.998 [main] INFO  resources.base - Test passed -Validating functionality of Drag and drop element.
+18:40:06.583 [main] INFO  resources.base - Test passed -Validate user can selct and close small modal.
+18:40:15.742 [main] INFO  resources.base - Test passed -Validate user can select future date.
+18:48:09.950 [main] INFO  resources.base - Testcase pass -Verify validation message for incomplete Student registration.
+18:55:35.059 [main] INFO  resources.base - Testcase pass - Validating Student registration.
+18:55:44.496 [main] INFO  resources.base - Testcase pass -Verify validation message for incomplete Student registration.
+18:55:58.516 [main] INFO  resources.base - Testcase passed -Validating functionality of Alert popup.
+18:56:06.163 [main] INFO  resources.base - Test passed -Validating functionality of hover over on button and input field.
+18:56:11.780 [main] INFO  resources.base - Test passed -Validating functionality of Drag and drop element.
+18:56:19.216 [main] INFO  resources.base - Test passed -Validate user can selct and close small modal.
+18:56:27.263 [main] INFO  resources.base - Test passed -Validate user can select future date.
+19:28:26.029 [main] INFO  resources.base - Testcase pass - Validating Student registration.
+19:28:33.952 [main] INFO  resources.base - Testcase pass -Verify validation message for incomplete Student registration.
+19:28:46.188 [main] INFO  resources.base - Testcase passed -Validating functionality of Alert popup.
+19:28:55.276 [main] INFO  resources.base - Test passed -Validating functionality of hover over on button and input field.
+19:29:04.735 [main] INFO  resources.base - Test passed -Validating functionality of Drag and drop element.
+19:29:13.601 [main] INFO  resources.base - Test passed -Validate user can selct and close small modal.
+19:29:23.507 [main] INFO  resources.base - Test passed -Validate user can select future date.

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87254" started-at="2021-03-21T19:27:56Z" finished-at="2021-03-21T19:29:23Z">
+    <groups>
+    </groups>
+    <test name="Validating Student registration" duration-ms="30458" started-at="2021-03-21T19:27:56Z" finished-at="2021-03-21T19:28:26Z">
+      <class name="ADemo.TestCase1">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:ADemo.TestCase1@4d1c00d0]" name="intializeDriver" is-config="true" duration-ms="13751" started-at="2021-03-21T19:27:56Z" finished-at="2021-03-21T19:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="practiceForm()[pri:0, instance:ADemo.TestCase1@4d1c00d0]" name="practiceForm" duration-ms="15990" started-at="2021-03-21T19:28:10Z" finished-at="2021-03-21T19:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceForm -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ADemo.TestCase1@4d1c00d0]" name="teardown" is-config="true" duration-ms="698" started-at="2021-03-21T19:28:26Z" finished-at="2021-03-21T19:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ADemo.TestCase1 -->
+    </test> <!-- Validating Student registration -->
+    <test name="Verify validation message for incomplete Student registration" duration-ms="9258" started-at="2021-03-21T19:28:26Z" finished-at="2021-03-21T19:28:36Z">
+      <class name="ADemo.TestCase1Neg">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:ADemo.TestCase1Neg@7d20d0b]" name="intializeDriver" is-config="true" duration-ms="3140" started-at="2021-03-21T19:28:26Z" finished-at="2021-03-21T19:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="practiceForm()[pri:0, instance:ADemo.TestCase1Neg@7d20d0b]" name="practiceForm" duration-ms="3953" started-at="2021-03-21T19:28:30Z" finished-at="2021-03-21T19:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceForm -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ADemo.TestCase1Neg@7d20d0b]" name="teardown" is-config="true" duration-ms="2165" started-at="2021-03-21T19:28:33Z" finished-at="2021-03-21T19:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ADemo.TestCase1Neg -->
+    </test> <!-- Verify validation message for incomplete Student registration -->
+    <test name="Validating functionality of Alert popup" duration-ms="10248" started-at="2021-03-21T19:28:36Z" finished-at="2021-03-21T19:28:46Z">
+      <class name="ADemo.TestCase2">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:ADemo.TestCase2@38afe297]" name="intializeDriver" is-config="true" duration-ms="2975" started-at="2021-03-21T19:28:36Z" finished-at="2021-03-21T19:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="closeAlert()[pri:0, instance:ADemo.TestCase2@38afe297]" name="closeAlert" duration-ms="7079" started-at="2021-03-21T19:28:39Z" finished-at="2021-03-21T19:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAlert -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ADemo.TestCase2@38afe297]" name="teardown" is-config="true" duration-ms="193" started-at="2021-03-21T19:28:46Z" finished-at="2021-03-21T19:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ADemo.TestCase2 -->
+    </test> <!-- Validating functionality of Alert popup -->
+    <test name="Validating functionality of hover over on button and input field" duration-ms="9122" started-at="2021-03-21T19:28:46Z" finished-at="2021-03-21T19:28:55Z">
+      <class name="ADemo.TestCase3">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:ADemo.TestCase3@6200f9cb]" name="intializeDriver" is-config="true" duration-ms="2630" started-at="2021-03-21T19:28:46Z" finished-at="2021-03-21T19:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="HoverButton()[pri:0, instance:ADemo.TestCase3@6200f9cb]" name="HoverButton" duration-ms="6248" started-at="2021-03-21T19:28:49Z" finished-at="2021-03-21T19:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HoverButton -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ADemo.TestCase3@6200f9cb]" name="teardown" is-config="true" duration-ms="243" started-at="2021-03-21T19:28:55Z" finished-at="2021-03-21T19:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ADemo.TestCase3 -->
+    </test> <!-- Validating functionality of hover over on button and input field -->
+    <test name="Validating functionality of Drag and drop element" duration-ms="11306" started-at="2021-03-21T19:28:55Z" finished-at="2021-03-21T19:29:06Z">
+      <class name="ADemo.TestCase4">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:ADemo.TestCase4@4009e306]" name="intializeDriver" is-config="true" duration-ms="3150" started-at="2021-03-21T19:28:55Z" finished-at="2021-03-21T19:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="hoverButton()[pri:0, instance:ADemo.TestCase4@4009e306]" name="hoverButton" duration-ms="6049" started-at="2021-03-21T19:28:58Z" finished-at="2021-03-21T19:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverButton -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ADemo.TestCase4@4009e306]" name="teardown" is-config="true" duration-ms="2105" started-at="2021-03-21T19:29:04Z" finished-at="2021-03-21T19:29:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ADemo.TestCase4 -->
+    </test> <!-- Validating functionality of Drag and drop element -->
+    <test name="Validate user can selct and close small modal" duration-ms="7723" started-at="2021-03-21T19:29:06Z" finished-at="2021-03-21T19:29:14Z">
+      <class name="ADemo.TestCase5">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:ADemo.TestCase5@c0c2f8d]" name="intializeDriver" is-config="true" duration-ms="2404" started-at="2021-03-21T19:29:06Z" finished-at="2021-03-21T19:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="modalDialogs()[pri:0, instance:ADemo.TestCase5@c0c2f8d]" name="modalDialogs" duration-ms="4356" started-at="2021-03-21T19:29:09Z" finished-at="2021-03-21T19:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modalDialogs -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ADemo.TestCase5@c0c2f8d]" name="teardown" is-config="true" duration-ms="962" started-at="2021-03-21T19:29:13Z" finished-at="2021-03-21T19:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ADemo.TestCase5 -->
+    </test> <!-- Validate user can selct and close small modal -->
+    <test name="Validate user can select future date" duration-ms="9076" started-at="2021-03-21T19:29:14Z" finished-at="2021-03-21T19:29:23Z">
+      <class name="ADemo.TestCase6">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:ADemo.TestCase6@7d8704ef]" name="intializeDriver" is-config="true" duration-ms="2754" started-at="2021-03-21T19:29:14Z" finished-at="2021-03-21T19:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="datePicker()[pri:0, instance:ADemo.TestCase6@7d8704ef]" name="datePicker" duration-ms="6189" started-at="2021-03-21T19:29:17Z" finished-at="2021-03-21T19:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePicker -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ADemo.TestCase6@7d8704ef]" name="teardown" is-config="true" duration-ms="131" started-at="2021-03-21T19:29:23Z" finished-at="2021-03-21T19:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ADemo.TestCase6 -->
+    </test> <!-- Validate user can select future date -->
+  </suite> <!-- Suite -->
+</testng-results>
