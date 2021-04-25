@@ -10,35 +10,7 @@
             <class name="ADemo.TestCase1"/>
         </classes>
     </test>
-    <test name="Verify validation message for incomplete Student registration">
-        <classes>
-            <class name="ADemo.TestCase1Neg"/>
-        </classes>
-    </test>
-    <test name="Validating functionality of Alert popup">
-        <classes>
-            <class name="ADemo.TestCase2"/>
-        </classes>
-    </test>
-    <test name="Validating functionality of hover over on button and input field">
-        <classes>
-            <class name="ADemo.TestCase3"/>
-        </classes>
-    </test>
-    <test name="Validating functionality of Drag and drop element">
-        <classes>
-            <class name="ADemo.TestCase4"/>
-        </classes>
-    </test>
-    <test name="Validate user can selct and close small modal">
-        <classes>
-            <class name="ADemo.TestCase5"/>
-        </classes>
-    </test>
-    <test name="Validate user can select future date">
-        <classes>
-            <class name="ADemo.TestCase6"/>
-        </classes>
-    </test>
+
+
     <!-- Test -->
 </suite> <!-- Suite -->

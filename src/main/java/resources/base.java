@@ -23,23 +23,26 @@ public WebDriver initializeDriver() throws IOException
 	prop= new Properties();
 	FileInputStream fis=new FileInputStream(projectPath+"/src/main/java/resources/data.properties");
 	prop.load(fis);
+	//mvn test -Dbrowser=chrome
+
+	//String browserName=System.getProperty("browser");
 	String browserName=prop.getProperty("browser");
 	System.out.println(browserName);
 
 if(browserName.equals("chrome"))
 {
-	System.setProperty("webdriver.chrome.driver",projectPath+"/chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver",projectPath+"/src/main/java/resources/driversFolder/chromedriver.exe");
 	driver= new ChromeDriver();
 }
 else if (browserName.equals("firefox"))
 {
-	System.setProperty("webdriver.gecko.driver",projectPath+"/geckodriver.exe");
+	System.setProperty("webdriver.gecko.driver",projectPath+"/src/main/java/resources/driversFolder/geckodriver.exe");
 	driver= new FirefoxDriver();
 
 }
 else if (browserName.equals("ie"))
 {
-	System.setProperty("webdriver.ie.driver",projectPath+"/IEDriverServer.exe");
+	System.setProperty("webdriver.ie.driver",projectPath+"/src/main/java/resources/driversFolder/IEDriverServer.exe");
 	driver= new InternetExplorerDriver();
 }
 
