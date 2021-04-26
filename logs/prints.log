@@ -1,7 +1,46 @@
-23:47:50.105 [main] INFO  resources.base - Testcase pass - Validating Student registration.
-23:50:01.972 [main] INFO  resources.base - Testcase pass - Validating Student registration.
-23:54:12.706 [main] INFO  resources.base - Testcase pass - Validating Student registration.
-23:56:17.327 [main] INFO  resources.base - Testcase pass - Validating Student registration.
-00:00:24.601 [main] INFO  resources.base - Testcase pass - Validating Student registration.
-00:02:20.055 [main] INFO  resources.base - 
-00:02:20.070 [main] INFO  resources.base - Testcase pass - Validating Student registration.
+10:44:31.979 [main] INFO  resources.base - 1 in Chapter Books for Children
+10:44:32.040 [main] INFO  resources.base - 3 in Contemporary Fantasy for Young Adults
+10:44:32.087 [main] INFO  resources.base - 7 in Action & Adventure for Children (Books)
+10:44:32.137 [main] INFO  resources.base - Customer reviews:
+32,018 ratings
+10:44:34.078 [main] INFO  resources.base - Testcase pass - Validating End to End scenario.
+10:46:30.483 [main] INFO  resources.base - Kindle Edition available
+10:46:30.575 [main] INFO  resources.base - Book is not a Best Seller.
+10:46:30.654 [main] INFO  resources.base - ASIN : 1408855658
+10:46:30.701 [main] INFO  resources.base - Publisher : Bloomsbury Children's Books; 1st edition (1 Sept. 2014)
+10:46:30.757 [main] INFO  resources.base - Language : English
+10:46:30.810 [main] INFO  resources.base - Paperback : 352 pages
+10:46:30.857 [main] INFO  resources.base - ISBN-10 : 9781408855652
+10:46:30.903 [main] INFO  resources.base - ISBN-13 : 978-1408855652
+10:46:30.950 [main] INFO  resources.base - Reading age : 9 - 11 years
+10:46:30.997 [main] INFO  resources.base - Dimensions : 12.9 x 2.3 x 19.7 cm
+10:46:31.050 [main] INFO  resources.base - Best Sellers Rank: 80 in Books (See Top 100 in Books)
+1 in Chapter Books for Children
+3 in Contemporary Fantasy for Young Adults
+7 in Action & Adventure for Children (Books)
+10:46:31.108 [main] INFO  resources.base - 1 in Chapter Books for Children
+10:46:31.162 [main] INFO  resources.base - 3 in Contemporary Fantasy for Young Adults
+10:46:31.218 [main] INFO  resources.base - 7 in Action & Adventure for Children (Books)
+10:46:31.267 [main] INFO  resources.base - Customer reviews:
+32,018 ratings
+10:46:33.867 [main] INFO  resources.base - Testcase pass - Validating End to End scenario.
+10:47:12.411 [main] INFO  resources.base - Kindle Edition available
+10:47:12.482 [main] INFO  resources.base - Book is not a Best Seller.
+10:47:12.559 [main] INFO  resources.base - ASIN : 1408855658
+10:47:12.605 [main] INFO  resources.base - Publisher : Bloomsbury Children's Books; 1st edition (1 Sept. 2014)
+10:47:12.652 [main] INFO  resources.base - Language : English
+10:47:12.699 [main] INFO  resources.base - Paperback : 352 pages
+10:47:12.746 [main] INFO  resources.base - ISBN-10 : 9781408855652
+10:47:12.807 [main] INFO  resources.base - ISBN-13 : 978-1408855652
+10:47:12.853 [main] INFO  resources.base - Reading age : 9 - 11 years
+10:47:12.901 [main] INFO  resources.base - Dimensions : 12.9 x 2.3 x 19.7 cm
+10:47:12.957 [main] INFO  resources.base - Best Sellers Rank: 80 in Books (See Top 100 in Books)
+1 in Chapter Books for Children
+3 in Contemporary Fantasy for Young Adults
+7 in Action & Adventure for Children (Books)
+10:47:13.029 [main] INFO  resources.base - 1 in Chapter Books for Children
+10:47:13.076 [main] INFO  resources.base - 3 in Contemporary Fantasy for Young Adults
+10:47:13.123 [main] INFO  resources.base - 7 in Action & Adventure for Children (Books)
+10:47:13.172 [main] INFO  resources.base - Customer reviews:
+32,018 ratings
+10:47:16.318 [main] INFO  resources.base - Testcase pass - Validating End to End scenario.

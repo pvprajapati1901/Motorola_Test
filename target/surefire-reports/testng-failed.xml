@@ -4,15 +4,15 @@
   <listeners>
     <listener class-name="resources.ExtentReporterNG"/>
   </listeners>
-  <test name="Registration form functionality(failed)">
+  <test name="Validating Student registration(failed)">
     <classes>
-      <class name="cucumberOptions.TestRunner">
+      <class name="ADemo.TestCase1">
         <methods>
-          <include name="setUpClass"/>
-          <include name="feature" invocation-numbers="0"/>
-          <include name="tearDownClass"/>
+          <include name="practiceForm"/>
+          <include name="teardown"/>
+          <include name="intializeDriver"/>
         </methods>
-      </class> <!-- cucumberOptions.TestRunner -->
+      </class> <!-- ADemo.TestCase1 -->
     </classes>
-  </test> <!-- Registration form functionality(failed) -->
+  </test> <!-- Validating Student registration(failed) -->
 </suite> <!-- Failed suite [Suite] -->

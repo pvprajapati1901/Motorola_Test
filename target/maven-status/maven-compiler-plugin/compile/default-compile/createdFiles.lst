@@ -1,8 +1,2 @@
-pageObjects\PagePracticeForm.class
 resources\base.class
-pageObjects\PageDatePicker.class
 resources\ExtentReporterNG.class
-pageObjects\PageAlert.class
-pageObjects\PageDragandDrop.class
-pageObjects\PageTooltips.class
-pageObjects\PageModalDialogs.class

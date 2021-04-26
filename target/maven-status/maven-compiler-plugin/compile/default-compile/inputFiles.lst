@@ -1,8 +1,8 @@
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\pageObjects\PageAlert.java
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\pageObjects\PageDragandDrop.java
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\resources\ExtentReporterNG.java
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\pageObjects\PageTooltips.java
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\pageObjects\PagePracticeForm.java
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\pageObjects\PageDatePicker.java
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\pageObjects\PageModalDialogs.java
-C:\Users\Saumya-Raj\Desktop\E2EProjectCucumber\src\main\java\resources\base.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\pageObjects\HomePage.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\pageObjects\RegisterPage.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\pageObjects\SearchPage.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\resources\base.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\pageObjects\SignInPage.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\resources\ExtentReporterNG.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\pageObjects\BooksPage.java
+C:\Users\Pankaj\Desktop\E2EProject\src\main\java\pageObjects\SearchResult.java

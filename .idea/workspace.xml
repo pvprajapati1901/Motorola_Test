@@ -2,104 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f4f1df-13ff-4fd3-a3ad-ca678384c635" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/BooksPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/SearchResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/SignInPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_testng_1_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/E2EProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E2EProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/E2EProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/prints-2021-03-23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E2EProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cd.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/prints.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/prints.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/PageAlert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/PageDatePicker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/PageDragandDrop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/PageModalDialogs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/PagePracticeForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/PageTooltips.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/resources/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resources/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/data.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resources/driversFolder/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/driversFolder/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ADemo/TestCase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase1Neg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumberOptions/TestRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/RegistrationForm.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinations/StepDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ADemo/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ADemo/e2escenario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/driversFolder/IEDriverServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driversFolder/IEDriverServer.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/driversFolder/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driversFolder/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/driversFolder/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driversFolder/geckodriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/PageAlert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/PageDatePicker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/PageDragandDrop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/PageModalDialogs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/PagePracticeForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/PageTooltips.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/resources/base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/resources/base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ExtentReportsTestNG.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ExtentReportsTestNG.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can selct and close small modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can selct and close small modal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can selct and close small modal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can selct and close small modal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can select future date.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can select future date.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can select future date.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validate user can select future date.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating Student registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating Student registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating Student registration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating Student registration.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Alert popup.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Alert popup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Alert popup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Alert popup.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Drag and drop element.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Drag and drop element.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Drag and drop element.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of Drag and drop element.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of hover over on button and input field.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of hover over on button and input field.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of hover over on button and input field.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Validating functionality of hover over on button and input field.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Verify validation message for incomplete Student registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Verify validation message for incomplete Student registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Verify validation message for incomplete Student registration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Verify validation message for incomplete Student registration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase1Neg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase1Neg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-ADemo.TestCase6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Validating Student registration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Validating Student registration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Verify validation message for incomplete Student registration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/Verify validation message for incomplete Student registration.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/classes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/testng.xml.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/toc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase1Neg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cucumberOptions/TestRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinations/StepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ExtentReportsTestNG.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentReportsTestNG.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire1150744827639207711tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_05598287761861807102tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter4235109639241856382.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ADemo/TestCase1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -127,13 +68,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ADemo/TestCase1.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ADemo/e2escenario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="562">
+              <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -153,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/testcase2.java" />
         <option value="$PROJECT_DIR$/src/test/java/testclass1.java" />
         <option value="$PROJECT_DIR$/src/test/java/Testcase1.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/AlertTest.java" />
@@ -186,14 +150,11 @@
         <option value="$PROJECT_DIR$/src/test/java/stepDefinations/StepDefinition.java" />
         <option value="$PROJECT_DIR$/testngCucumber.xml" />
         <option value="$PROJECT_DIR$/src/test/java/cucumberOptions/TestRunner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/resources/base.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/PageAlert.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/PageDatePicker.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/PageDragandDrop.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/PageModalDialogs.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/resources/data.properties" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/PagePracticeForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/BooksPage.java" />
@@ -201,9 +162,13 @@
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/SearchPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/SignInPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/RegisterPage.java" />
-        <option value="$PROJECT_DIR$/logs/prints.log" />
         <option value="$PROJECT_DIR$/logs/prints-2021-04-25.log" />
         <option value="$PROJECT_DIR$/src/test/java/ADemo/TestCase1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/data.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/resources/base.java" />
+        <option value="$PROJECT_DIR$/logs/prints-2021-04-26.log" />
+        <option value="$PROJECT_DIR$/logs/prints.log" />
+        <option value="$PROJECT_DIR$/testng.xml" />
       </list>
     </option>
   </component>
@@ -241,59 +206,41 @@
           <expand>
             <path>
               <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
+              <item name="E2EProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
+              <item name="E2EProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="E2EProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="E2EProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+              <item name="E2EProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="E2EProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="E2EProjectCucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ADemo" type="462c0819:PsiDirectoryNode" />
+              <item name="E2EProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -301,11 +248,10 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619391694493" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619430612785" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -346,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCase1.practiceForm">
+  <component name="RunManager" selected="Maven.Maven_Test">
     <configuration name="Unnamed" type="Java Scratch" factoryName="Java Scratch">
       <module name="E2EProject" />
       <method v="2">
@@ -407,7 +353,7 @@
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="test" />
       </method>
     </configuration>
-    <configuration name="TestCase1.practiceForm (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="e2escenario" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="E2EProject" />
       <extension name="coverage">
         <pattern>
@@ -416,7 +362,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ADemo" />
-      <option name="MAIN_CLASS_NAME" value="ADemo.TestCase1" />
+      <option name="MAIN_CLASS_NAME" value="ADemo.e2escenario" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e2escenario.practiceForm" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E2EProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ADemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ADemo" />
+      <option name="MAIN_CLASS_NAME" value="ADemo.e2escenario" />
       <option name="METHOD_NAME" value="practiceForm" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -425,7 +387,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase1.practiceForm (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="e2escenario.practiceForm" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="E2EProject" />
       <extension name="coverage">
         <pattern>
@@ -434,7 +396,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ADemo" />
-      <option name="MAIN_CLASS_NAME" value="ADemo.TestCase1" />
+      <option name="MAIN_CLASS_NAME" value="ADemo.e2escenario" />
       <option name="METHOD_NAME" value="practiceForm" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -443,7 +405,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase1.practiceForm (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="e2escenario.practiceForm" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="E2EProject" />
       <extension name="coverage">
         <pattern>
@@ -452,7 +414,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ADemo" />
-      <option name="MAIN_CLASS_NAME" value="ADemo.TestCase1" />
+      <option name="MAIN_CLASS_NAME" value="ADemo.e2escenario" />
       <option name="METHOD_NAME" value="practiceForm" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -461,7 +423,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase1.practiceForm (5)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="e2escenario.practiceForm" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="E2EProject" />
       <extension name="coverage">
         <pattern>
@@ -470,25 +432,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ADemo" />
-      <option name="MAIN_CLASS_NAME" value="ADemo.TestCase1" />
-      <option name="METHOD_NAME" value="practiceForm" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase1.practiceForm" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="E2EProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ADemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ADemo" />
-      <option name="MAIN_CLASS_NAME" value="ADemo.TestCase1" />
+      <option name="MAIN_CLASS_NAME" value="ADemo.e2escenario" />
       <option name="METHOD_NAME" value="practiceForm" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -500,19 +444,16 @@
     <list>
       <item itemvalue="Java Scratch.Unnamed" />
       <item itemvalue="Maven.Maven_Test" />
-      <item itemvalue="TestNG.TestCase1.practiceForm" />
-      <item itemvalue="TestNG.TestCase1.practiceForm (5)" />
-      <item itemvalue="TestNG.TestCase1.practiceForm (1)" />
-      <item itemvalue="TestNG.TestCase1.practiceForm (2)" />
-      <item itemvalue="TestNG.TestCase1.practiceForm (3)" />
+      <item itemvalue="TestNG.e2escenario.practiceForm" />
+      <item itemvalue="TestNG.e2escenario" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestCase1.practiceForm" />
-        <item itemvalue="TestNG.TestCase1.practiceForm (3)" />
-        <item itemvalue="TestNG.TestCase1.practiceForm (2)" />
-        <item itemvalue="TestNG.TestCase1.practiceForm (1)" />
-        <item itemvalue="TestNG.TestCase1.practiceForm (5)" />
+        <item itemvalue="TestNG.e2escenario" />
+        <item itemvalue="TestNG.e2escenario.practiceForm" />
+        <item itemvalue="TestNG.e2escenario.practiceForm" />
+        <item itemvalue="TestNG.e2escenario.practiceForm" />
+        <item itemvalue="TestNG.e2escenario.practiceForm" />
       </list>
     </recent_temporary>
   </component>
@@ -530,9 +471,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCase1_practiceForm - 2021.04.25 at 23h 12m 23s.xml">
-      <configuration name="TestCase1.practiceForm" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestCase1_practiceForm - 2021.04.25 at 23h 18m 04s.xml">
       <configuration name="TestCase1.practiceForm" configurationId="TestNG" />
     </history-entry>
@@ -560,12 +498,14 @@
     <history-entry file="TestCase1_practiceForm - 2021.04.26 at 00h 02m 20s.xml">
       <configuration name="TestCase1.practiceForm" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestCase1 - 2021.04.26 at 10h 13m 58s.xml">
+      <configuration name="TestCase1" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.31625184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.3251928" />
       <window_info id="Structure" order="1" sideWeight="0.50095236" side_tool="true" weight="0.25321338" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -573,16 +513,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50095236" side_tool="true" weight="0.25321338" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32668713" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8251928" weight="0.3264095" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3256705" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8251928" weight="0.3256705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32668713" />
-      <window_info anchor="bottom" x="22" y="321" width="1556" height="258" id="Event Log" order="8" sideWeight="0.17480719" side_tool="true" weight="0.32822084" />
+      <window_info anchor="bottom" x="22" y="321" width="1556" height="258" id="Event Log" order="8" sideWeight="0.5012854" side_tool="true" weight="0.3256705" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4993573" weight="0.3264095" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49871466" weight="0.3256705" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -602,20 +542,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/reflect/DelegatingConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Academy/Listeners.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -681,42 +608,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ADemo/TestCase1Neg.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/PageTooltips.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/data.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/BooksPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -727,20 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/SearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/SearchResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/SignInPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -748,17 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/prints-2021-04-25.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/prints.log">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/prints-2021-04-25.log" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RegisterPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -766,13 +638,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ADemo/TestCase1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/SearchResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/data.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/prints-2021-04-26.log" />
+    <entry file="file://$PROJECT_DIR$/logs/prints.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ADemo/e2escenario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
         </state>
       </provider>
     </entry>

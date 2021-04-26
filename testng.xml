@@ -7,7 +7,7 @@
 
     <test name="Validating Student registration">
         <classes>
-            <class name="ADemo.TestCase1"/>
+            <class name="ADemo.e2escenario"/>
         </classes>
     </test>
 
